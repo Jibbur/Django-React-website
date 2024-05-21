@@ -4,5 +4,5 @@ endpoitns:
   - name: "REST API"
     port: 8000
     type: REST
-    networkVisibility: Project
+    networkVisibility: Public
     context: /
